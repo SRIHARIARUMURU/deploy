@@ -1,0 +1,1 @@
+web: gunicorn sql_deployment.wsgi
